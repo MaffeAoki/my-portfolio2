@@ -1,5 +1,6 @@
 {
-  "name": "Maffe Aoki Portfolio",
-  "description": "A personal portfolio showcasing my academic journey and projects.",
-  "requestFramePermissions": []
+  "name": "Portfolio",
+  "description": "A polished, modern portfolio for incoming college students to showcase their journey, achievements, and aspirations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
 }
